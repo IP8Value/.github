@@ -2,5 +2,7 @@
 
 > Unlock IP Potential For Value Creation
 
-IP8Value streamline and optimize IP management and commercialization processes.
+IP8Value streamlines and optimizes IP management and commercialization processes.
+Try our demo: https://webapp.ip8value.com/
+
 
