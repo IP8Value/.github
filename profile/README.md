@@ -25,7 +25,7 @@ Connect with us on our social channels for updates on tech management, commercia
 | Platform   | Link / Contact |
 |------------|----------------|
 | 🐦‍⬛ Twitter/X | [@IP8Value](https://x.com/IP8Value) |
-| 🔗 LinkedIn | [IP8Value](https://www.linkedin.com/company/100568259/) |
+| 🔗 LinkedIn | [@IP8Value](https://www.linkedin.com/company/100568259/) |
 | 📱 WeChat   | <img src="./qrcode.jpg" alt="WeChat QR Code" width="150" height="150"> 
 
 
