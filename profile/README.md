@@ -18,9 +18,9 @@ IP8Value is revolutionizing intellectual property (IP) management with cutting-e
 ## 📐 System Architecture
 ![IP8Value Architecture Diagram](./architecture.png)
 
-## Social Media
+## 📢 Connect with IP8Value
 
-
+Connect with us on our social channels for updates on tech management, commercialization, and digital tech transfer.
 
 | Platform   | Link / Contact |
 |------------|----------------|
@@ -28,5 +28,5 @@ IP8Value is revolutionizing intellectual property (IP) management with cutting-e
 | 🔗 LinkedIn | [IP8Value](https://www.linkedin.com/company/100568259/) |
 | 📱 WeChat   | <img src="./qrcode.jpg" alt="WeChat QR Code" width="150" height="150"> 
 
-Connect with us on our social channels for updates on tech management, commercialization, and digital tech transfer.
+
 For collaborations, questions, or custom solutions, reach out via our [website](https://www.ip8value.com/en/) or star this org to stay updated! ⭐
