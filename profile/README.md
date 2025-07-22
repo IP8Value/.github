@@ -19,3 +19,8 @@ IP8Value is revolutionizing intellectual property (IP) management with cutting-e
 ![IP8Value Architecture Diagram](./architecture.png)
 
 For collaborations, questions, or custom solutions, reach out via our [website](https://www.ip8value.com/en/) or star this org to stay updated! ⭐
+
+## 📐 Social Accounts
+Twitter/X: https://x.com/IP8Value
+
+WeChat: 
