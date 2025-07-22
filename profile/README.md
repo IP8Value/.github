@@ -4,7 +4,7 @@
 
 > **Unlock IP Potential For Value Creation**
 
-IP8Value is revolutionizing intellectual property (IP) management with cutting-edge AI-powered solutions. We streamline and optimize IP creation, protection, and commercialization processes, empowering innovators to turn ideas into valuable assets effortlessly.
+IP8Value is revolutionizing intellectual property (IP) management with cutting-edge AI-powered solutions. We streamline and optimize IP creation, protection, and commercialization processes, empowering innovators to effortlessly turn ideas into valuable assets.
 
 ## 🚀 Why Choose IP8Value?
 - **Intelligent Automation**: Harness AI to automate complex IP workflows, from patent drafting to market analysis.
@@ -18,9 +18,15 @@ IP8Value is revolutionizing intellectual property (IP) management with cutting-e
 ## 📐 System Architecture
 ![IP8Value Architecture Diagram](./architecture.png)
 
+## Social Media
+
+
+
+| Platform   | Link / Contact |
+|------------|----------------|
+| 🐦‍⬛ Twitter/X | [@IP8Value](https://x.com/IP8Value) |
+| 🔗 LinkedIn | [IP8Value](https://www.linkedin.com/company/100568259/) |
+| 📱 WeChat   | <img src="./qrcode.jpg" alt="WeChat QR Code" width="150" height="150"> 
+
+Connect with us on our social channels for updates on tech management, commercialization, and digital tech transfer.
 For collaborations, questions, or custom solutions, reach out via our [website](https://www.ip8value.com/en/) or star this org to stay updated! ⭐
-
-## 📐 Social Accounts
-Twitter/X: https://x.com/IP8Value
-
-WeChat: 
